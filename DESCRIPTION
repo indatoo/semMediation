@@ -3,7 +3,7 @@ Type: Package
 Title: Visualize the Mediation Effect for Structural Equation Modelling
 Version: 0.1.1
 Author: Keon-Woong Moon<cardiomoon@gmail.com>
-Depends: R (>= 2.10)
+Depends: R (>= 4.10)
 Maintainer: Keon-Woong Moon<cardiomoon@gmail.com>
 Imports: lavaan,
          ggplot2,
